@@ -1,5 +1,3 @@
 # Time zyTs - Hacktudo
 
-```xml
-<openbank.drawio.xml>
-.```
+[Draw](openbank.drawio.png)
