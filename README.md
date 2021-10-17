@@ -1,3 +1,3 @@
 # Time zyTs - Hacktudo
 
-[Draw](openbank.drawio.png)
+[Click here to see drawio schema](openbank.drawio.png)
