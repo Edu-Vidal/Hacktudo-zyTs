@@ -1,5 +1,8 @@
 # Time zyTs - Hacktudo
 
+## Aplicação Figma
+Aplicação Interface com investidor (Flow 1) e interface com funcionários da BNY Mellon (Flow 2) : https://bit.ly/3pc1RVS
+
 ## Estrutura proposta
 
 ![Draw io schema](https://user-images.githubusercontent.com/28159934/137609059-5e8487d3-806e-4d37-9ae1-0ad993cf701d.png)
