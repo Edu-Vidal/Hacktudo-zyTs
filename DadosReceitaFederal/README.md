@@ -1,9 +1,3 @@
-# Dados Receita Federal
-
-### Obtenção e análise de dados públicos da Receita
-
-A Receita Federal disponibiliza trimestralmente
-
 # REDE-DADOS-CNPJ - Visualização de dados públicos de CNPJ
 
 ### Vídeo no youtube<br>
@@ -40,7 +34,7 @@ Esta versão antiga executável só irá funcionar com a base de testes que est�
 ## Como utilizar o Banco de dados públicos completo de CNPJs:
 A pasta contém um arquivo <b>cnpj_teste.db</b>, que é o banco de dados com poucos dados apenas para testar o funcionamento da rotina. Substitua esse arquivo pela base <b>cnpj.db</b> em sqlite que pode ser obtido no Google Drive https://drive.google.com/drive/folders/1Gkeq27aHv6UgT8m30fc4hZWMPqdhEHWr?usp=sharing (base da SRF de 11/09/2021), alterando o arquivo de configuração rede.ini, mudando o nome do banco na linha para<br>
 <b>base_receita = cnpj.db</b><br>
-O projeto https://github.com/rictom/cnpj-sqlite faz a conversão dos arquivos zipados do site da Receita para sqlite e gera o arquivo <b>cnpj.db</b> que está no Google Drive.<br>
+O projeto https://github.com/rictom/cnpj-sqlite, também localizado [aqui](https://github.com/Edu-Vidal/Hacktudo-zyTs/tree/master/DadosReceitaFederal/cnpj-sqlite), faz a conversão dos arquivos zipados do site da Receita para sqlite e gera o arquivo <b>cnpj.db</b> que está no Google Drive.<br>
 
 ## OBSERVAÇÃO IMPORTANTE em março de 2021:
 Até 2020 este script utilizava o arquivo sqlite gerado a partir do script do Fabio Serpa (https://github.com/fabioserpa/CNPJ-full), mas não funciona mais porque o layout das tabelas mudou.<br>
