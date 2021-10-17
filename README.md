@@ -12,7 +12,7 @@ O Schema representa o fluxo ideal dos dados entre o cliente, distribuidor e admi
 
 A Receita Federal, mensalmente, torna público arquivos para consulta de CNPJ. Após o tratamento desses dados temos uma estrutura robusta e confiável para realizar análises complexas de informações.
 
-O projeto Open Source [REDE-DADOS-CNPJ](https://github.com/Edu-Vidal/Hacktudo-zyTs/tree/master/DadosReceitaFederal), clonado para esse repositório, demonstra as possibilidades com o uso inteligente dos dados através de buscas SQL. Veja! Temos uma visualizaçao rápida de toda a estrutura de empresas, incluindo informações sobre seus sócios e diretores.
+O projeto Open Source [REDE-DADOS-CNPJ](https://github.com/Edu-Vidal/Hacktudo-zyTs/tree/master/DadosReceitaFederal), clonado para esse repositório, demonstra as possibilidades com o uso inteligente dos dados através de buscas SQL. [Veja!](https://github.com/Edu-Vidal/Hacktudo-zyTs/tree/master/DadosReceitaFederal) Temos uma visualizaçao rápida de toda a estrutura de empresas, incluindo informações sobre seus sócios e diretores.
 
 Esse é o ponto de partida para automatizar o processo de busca e validação de informações sobre Pessoas Jurídicas.
 
